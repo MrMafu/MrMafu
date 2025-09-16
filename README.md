@@ -3,8 +3,6 @@
   <img src="images/banner.png" alt="Banner" width="100%" />
 </div>
 
-<br>
-
 <!-- About Me -->
 # Hello there, I'm MrMafu :coffee:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrMafu&theme=nightowl&show_icons=true&hide_border=true&count_private=false">
